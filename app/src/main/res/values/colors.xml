@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="סגול">#FFBB86FC</color>
+    <color name="כחול_סגול">#5800FF</color>
+    <color name="כחול_סגול_כהה">#FF3700B3</color>
+    <color name="כחול_קלאסי">#332CFF</color>
+    <color name="טורקיז">#FF03DAC5</color>
+    <color name="תכלת">#00EFFF</color>
+
+    <color name="שחור">#FF000000</color>
+    <color name="לבן">#FFFFFFFF</color>
+
+    <color name="אפור_כהה_ותיפלה_כחול">#393955</color>
+    <color name="סגול_כהה">#4E0374</color>
+
+
+</resources>
